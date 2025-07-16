@@ -1,12 +1,25 @@
-# React + Vite
+# 🌌 3D Solar System (React Version)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a visually dynamic 3D model of the solar system built using **React.js** and **Three.js**. It simulates the motion of planets around the sun, including real-time speed control and smooth camera interactions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🌍 Realistic 3D orbits of planets around the sun
+- 🌞 Scaled solar system representation
+- 🎮 Real-time speed control slider
+- 🛰️ Interactive camera movement
+- 🎨 Dynamic rendering using Three.js within React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Three.js**
+- **JavaScript**
+- **HTML5/CSS3**
+
+---
+
